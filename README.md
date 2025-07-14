@@ -39,33 +39,30 @@ pip install -r requirements.txt
 python gui.py
 ```
 
-### Structure du mini-projet
+## Structure du projet
 
-
+```
 heg-room-scanner/
 ├── core.py           # Logique principale (scan des salles, requêtes HTTP)
 ├── gui.py            # Interface graphique (Tkinter)
 ├── README.md         # Documentation du projet
 ├── LICENSE           # Licence MIT
 └── requirements.txt  # Dépendance externe (requests)
+```
 
+---
 
-À propos
+## À propos
 
-Ce projet a été développé dans un cadre personnel par un étudiant de la HEG Genève afin de faciliter la recherche de salles disponibles sur le campus.
-Il est mis à disposition librement et peut être adapté à d’autres établissements ou contextes similaires.
+Ce projet a été développé dans un cadre personnel par un étudiant de la HEG Genève afin de faciliter la recherche de salles disponibles sur le campus.  
+Il est mis à disposition librement et peut être adapté à d'autres établissements ou contextes similaires.
 
-⸻
+## Licence
 
-Licence
+Ce projet est distribué sous la licence MIT.  
+Vous êtes libre de l’utiliser, modifier et redistribuer en respectant les conditions de cette licence.
 
-Ce projet est distribué sous la licence MIT.
-Vous êtes libre de l’utiliser, modifier, et redistribuer en respectant les termes de cette licence.
+## Auteur
 
-⸻
-
-Auteur
-
-Rami
-Étudiant en informatique de gestion à la HEG Genève
-GitHub : @overthinkdev
+**Rami** — Étudiant en informatique de gestion à la HEG Genève  
+GitHub : [@overthinkdev](https://github.com/overthinkdev)
