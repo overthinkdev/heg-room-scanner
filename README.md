@@ -64,5 +64,5 @@ Vous êtes libre de l’utiliser, modifier et redistribuer en respectant les con
 
 ## Auteur
 
-**Rami** — Étudiant en informatique de gestion à la HEG Genève  
+**Rami M.** — Étudiant en informatique de gestion à la HEG Genève  
 GitHub : [@overthinkdev](https://github.com/overthinkdev)
