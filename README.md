@@ -43,11 +43,18 @@ python gui.py
 
 ```
 heg-room-scanner/
-├── core.py           # Logique principale (scan des salles, requêtes HTTP)
-├── gui.py            # Interface graphique (Tkinter)
-├── README.md         # Documentation du projet
-├── LICENSE           # Licence MIT
-└── requirements.txt  # Dépendance externe (requests)
+│
+├── heg_room_scanner/
+│   ├── __init__.py
+│   ├── core.py
+│   ├── gui.py
+│   └── utils.py
+│
+├── main.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── LICENSE
 ```
 
 ---
